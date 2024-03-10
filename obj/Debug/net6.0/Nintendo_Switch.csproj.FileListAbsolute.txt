@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\bin\Debug\net6.0\Nintendo_Switch.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\bin\Debug\net6.0\Nintendo_Switch.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\bin\Debug\net6.0\Nintendo_Switch.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\bin\Debug\net6.0\Nintendo_Switch.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\bin\Debug\net6.0\Nintendo_Switch.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\Nintendo_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\Nintendo_Switch.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\Nintendo_Switch.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\Nintendo_Switch.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\Nintendo_Switch.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\refint\Nintendo_Switch.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\Nintendo_Switch.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\Nintendo_Switch.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Nintendo_Switch\obj\Debug\net6.0\ref\Nintendo_Switch.dll
